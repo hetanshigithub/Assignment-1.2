@@ -1,0 +1,41 @@
+body {
+  background-color: 00CCFF;
+  margin: -8px -8px -8px -8px;
+}
+
+h1 {
+  color: navy;
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+  height: 60px;
+  background-color: 0099FF; 
+}
+div {
+	background-color: 0066FF;
+	float: left;
+	margin: 0px 20px 0px 20px;
+	height: 200px;
+	width: 400px;
+}
+table{
+	align-self: center;
+	border-collapse: separate;
+ 	border-spacing: 2px;
+ 	border-color: grey;
+	background-color: pink;
+	height: 200px;
+	width: 260px; 
+}
+h3 {
+	color: 330099;
+	text-align: center;
+}
+#divv {
+	margin: 20px 110px 20px 20px;
+	padding: 0px 46px 0px 516px;
+	height: 200px;
+	width: 716px;
+}
+h2{
+	text-align: center;
+}
